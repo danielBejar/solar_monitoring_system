@@ -1,2 +1,2 @@
-#Final Project for the Electronic Engineering Degree
+# Final Project for the Electronic Engineering Degree
 This project involves data acquisition from an embedded system based on an Arduino ATMEL 2560. It captures voltage, current, and irradiance from solar panels located at the Faculty of Engineering in Oberá. The data is processed and displayed on a 16x4 LCD screen, and also transmitted via Bluetooth to a Raspberry Pi. The Raspberry Pi displays the variables in a dashboard format using Node-RED. The code for this project was developed using Visual Studio Code with the PlatformIO IDE extension.
